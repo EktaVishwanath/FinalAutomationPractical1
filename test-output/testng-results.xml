@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5632" started-at="2022-06-27T21:59:32Z" finished-at="2022-06-27T21:59:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5632" started-at="2022-06-27T21:59:32Z" finished-at="2022-06-27T21:59:38Z">
+      <class name="test.ValidateTest">
+        <test-method status="PASS" signature="userShouldBeAbleToRemoveSibgleListItem()[pri:0, instance:test.ValidateTest@7f77e91b]" name="userShouldBeAbleToRemoveSibgleListItem" duration-ms="3042" started-at="2022-06-27T21:59:32Z" finished-at="2022-06-27T21:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToRemoveSibgleListItem -->
+        <test-method status="PASS" signature="userShouldBeAbleToValidateCheckBox()[pri:0, instance:test.ValidateTest@7f77e91b]" name="userShouldBeAbleToValidateCheckBox" duration-ms="2548" started-at="2022-06-27T21:59:35Z" finished-at="2022-06-27T21:59:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToValidateCheckBox -->
+      </class> <!-- test.ValidateTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
